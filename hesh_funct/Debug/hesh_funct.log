@@ -1,0 +1,8 @@
+﻿  hesh_funct.cpp
+c:\users\asus\source\repos\hesh_funct\hesh_funct\hesh_funct\hesh_funct.cpp(106): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  c:\users\asus\source\repos\hesh_funct\hesh_funct\hesh_funct\hesh_funct.cpp(127): note: выполняется компиляция ссылки на экземпляр шаблон функции "int mul_hashF<X>(X &,int)"
+          with
+          [
+              X=int
+          ]
+  hesh_funct.vcxproj -> C:\Users\Asus\source\repos\hesh_funct\hesh_funct\hesh_funct\Debug\hesh_funct.exe
