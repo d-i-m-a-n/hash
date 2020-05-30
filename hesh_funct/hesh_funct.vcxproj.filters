@@ -24,7 +24,7 @@
     <ClInclude Include="hash.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\ConsoleApplication1\ConsoleApplication1\List.h">
+    <ClInclude Include="List.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

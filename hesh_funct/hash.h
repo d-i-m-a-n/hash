@@ -1,5 +1,5 @@
 #pragma once
-#include "C:\Users\Asus\source\repos\ConsoleApplication1\ConsoleApplication1\List.h"
+#include "List.h"
 #include <iostream>
 
 template<class X> class Hash
